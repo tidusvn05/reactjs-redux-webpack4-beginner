@@ -1,0 +1,4 @@
+node_modules/
+/build/
+.gradle
+yarn-error.log

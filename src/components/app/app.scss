@@ -1,0 +1,18 @@
+@import 'util.scss';
+@import 'responsive.scss';
+
+body, html{
+  font-family: 'Roboto', sans-serif;
+  margin: 0px;
+  padding: 0px;
+  width: 100%;
+}
+
+#root, #app{
+  overflow: auto;
+  width: 100%;
+}
+
+#app{
+  min-height: 100vh;
+}
